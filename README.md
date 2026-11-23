@@ -1,4 +1,4 @@
-# UNP_ML_REGRESSION_PROJECT_CUSTOMER_CHURN_PREDICTION_USING_PYTHON
+# UNP_ML_CLASSIFICATION_PROJECT_CUSTOMER_CHURN_PREDICTION_USING_PYTHON
 
 This project was completed as part of an academic machine learning project, focusing on predicting customer churn in the telecommunications industry using machine learning and deep learning techniques.
 
