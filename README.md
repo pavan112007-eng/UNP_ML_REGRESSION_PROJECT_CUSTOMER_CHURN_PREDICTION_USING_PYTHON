@@ -32,4 +32,5 @@ Project Outcome
 The project provided practical experience in data preprocessing, exploratory data analysis, feature engineering, handling imbalanced datasets, machine learning algorithms, deep learning, and model evaluation. It demonstrates an end-to-end machine learning workflow for customer churn prediction and data-driven business decision-making.
 
 This is the Link for Classification Google Colab File : https://drive.google.com/file/d/1ZHzn6RStmP_gEY94oEZ0QaiW2sRY88pC/view?usp=sharing
+
 This is the Link for Classification Presentation : https://docs.google.com/presentation/d/1F_8mVafcp_xnoegwk04euANll_hAjTXM/edit?usp=sharing&ouid=109262187964509531267&rtpof=true&sd=true
